@@ -21,3 +21,5 @@ I created this project to learn about IoT and to test it in a controlled environ
 - 5V	| VCC
 - A4	| SDA
 - A5  | SCL
+
+![alt text](https://github.com/adityaluthra0987/RFID-Cloner/blob/main/Screenshot%20from%202024-07-15%2011-15-28.png)
