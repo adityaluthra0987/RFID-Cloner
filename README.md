@@ -8,17 +8,16 @@ I created this project to learn about IoT and to test it in a controlled environ
 5. RFID Cards 125 kHz
 
 # Arduino UNO	RFID Module
-- GND	GND
-- 3.3V	3.3V
-- Digital Pin 9	  RST
-- Digital Pin 10	SDA
-- Digital Pin 11	MOSI
-- Digital Pin 12	MISO
-- Digital Pin 13	SCK
-- 20x4 I2C LCD Connections
+- GND	| GND
+- 3.3V	| 3.3V
+- Digital Pin 9	 | RST
+- Digital Pin 10 | SDA
+- Digital Pin 11 | MOSI
+- Digital Pin 12 | MISO
+- Digital Pin 13 | SCK
 
-- Arduino UNO	20x4 I2C LCD
-- GND	GND
-- 5V	VCC
-- A4	SDA
-- A5	SCL
+# Arduino UNO	20x4 I2C LCD
+- GND	| GND
+- 5V	| VCC
+- A4	| SDA
+- A5  | SCL
