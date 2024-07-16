@@ -3,7 +3,7 @@ I created this project to learn about IoT and to test it in a controlled environ
 # Components 
 1. Arduino Uno
 2. RFID Card Reader - RC522
-3. BreadBoard - Half Size
+3. BreadBoard - Half Size(Optional)
 4. LCD Display 20x4 I2C
 5. RFID Cards 125 kHz
 
